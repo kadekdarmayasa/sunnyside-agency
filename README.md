@@ -20,11 +20,6 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-### Screenshot
-
-![](./images/screenshoot-desktop.png)
-![](./images/screenshoot-mobile.png)
-
 ### Links
 
 - Solution URL: [Solution](https://https://www.frontendmentor.io/solutions/vanilla-html-vanilla-css-vanilla-javascript-aos-js-qeoXL8ekC)
