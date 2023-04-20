@@ -7,6 +7,7 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Links](#links)
+  - [Screenshots](#screenshots)
 - [My process](#my-process)
   - [Built with](#built-with)
 
@@ -23,6 +24,13 @@ Users should be able to:
 
 - Solution URL: [Solution](https://https://www.frontendmentor.io/solutions/vanilla-html-vanilla-css-vanilla-javascript-aos-js-qeoXL8ekC)
 - Live Site URL: [Live Site](https://kadekdarmayasa.github.io/sunnyside-agency/)
+
+### Screenshots
+- Desktop
+![Desktop](images/screenshoot-desktop.png?raw=true "Desktop")
+
+- Mobile
+![Mobile](images/screenshoot-mobile.png?raw=true "Mobile")
 
 ## My process
 
